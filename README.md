@@ -7,6 +7,6 @@ This file contains supplementary information and data for the manuscript:
 The repository contains 
 
 1) Mathematical model files of JAK-STAT signalling system (in Matlab)
-2) Tables with data include in the manuscript
+2) Combined datasets included in the manuscript
 
 
